@@ -1,0 +1,9 @@
+
+*.au
+*.gz
+*.wav
+*.iml
+*.xml
+checkpoints/final_checkpoint.data-00000-of-00002
+checkpoints/final_checkpoint.data-00001-of-00002
+checkpoints/final_checkpoint.index
